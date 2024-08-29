@@ -3,11 +3,13 @@
 Technical Skills: SQL, R, Python, Excel, Tableau, Power BI
 
 ### Education
-- MS. Mathematics, Missouri State University, Springfield (May 2023)
-  
-- Certificate in Data Analytics, Missouri State University, Springfield (May 2023)
+- MBA Finance | University of North Texas, Denton (_Dec 2026_)
 
-- BS. Mathematics, Adamawa State University, Mubi (July 2010)
+- MS. Mathematics | Missouri State University, Springfield (_May 2023_)
+  
+- Certificate, Data Analytics | Missouri State University, Springfield (_May 2023_)
+
+- BS. Mathematics | Adamawa State University, Mubi (_July 2010_)
   
 
 ### Work Experience
