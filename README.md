@@ -3,7 +3,7 @@
 Technical Skills: SQL, R, Python, Excel, Tableau, Power BI
 
 ### Education
-- MBA Finance | University of North Texas, Denton (_Dec 2026_)
+- MBA Finance | University of North Texas, Denton (_Expected Dec 2026_)
 
 - MS. Mathematics | Missouri State University, Springfield (_May 2023_)
   
