@@ -33,8 +33,8 @@ Eagles Academy, Kaduna, Nigeria (January 2018 – June 2021)
 
 ### Projects
 NYC Collision dataset Analysis | R Programming   
-•	Ensured data integrity and identify trends through statistical analysis.
-•	Created visualizations ggplots to highlight collision patterns by time, location, and contributing factors.
-•	Provided actionable recommendations to improve NYC traffic safety.
+-	Ensured data integrity and identify trends through statistical analysis.
+-	Created visualizations ggplots to highlight collision patterns by time, location, and contributing factors.
+-	Provided actionable recommendations to improve NYC traffic safety.
 
 
